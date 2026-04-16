@@ -1,0 +1,13 @@
+{
+    "ac_mode": "Macro",
+    "ac_macro_interval": "0.1",
+    "ac_hold_duration": "0.0",
+    "ac_auto_scroll": false,
+    "ac_auto_scroll_interval": "300.0",
+    "ac_action": "Mouse: Left Click",
+    "fish_action": "Mouse: Right Click",
+    "threshold": "6",
+    "switch_delay": "120",
+    "switch_mode": "Mouse",
+    "last_audio_device": "Stereo Mix (Realtek(R) Audio)"
+}
